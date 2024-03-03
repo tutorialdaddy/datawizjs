@@ -1,0 +1,28 @@
+{
+  "name": "datawizjs",
+  "version": "0.1.0",
+  "description": "A JavaScript library for data manipulation, analysis, and visualization in machine learning and data science projects.",
+  "main": "datawiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutorialdaddy/datawizjs.git"
+  },
+  "homepage": "https://github.com/tutorialdaddy/datawizjs",
+  "keywords": [
+    "data",
+    "analysis",
+    "visualization",
+    "machine learning",
+    "data science",
+    "statistics"
+  ],
+  "author": "tutorialdaddy",
+  "license": "MIT",
+  "dependencies": {
+    "simple-statistics": "^7.0.0",
+    "plotly": "^1.0.0"
+  }
+}
